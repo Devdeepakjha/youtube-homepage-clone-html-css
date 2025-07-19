@@ -14,7 +14,7 @@ A clean and responsive **YouTube homepage clone** built using **HTML** and **CSS
 
 ## 🌐 Live Demo
 
-➡️ [Click to View Project Live]https://devdeepakjha.github.io/youtube-homepage-clone-html-css/
+➡️ [Click to View Project Live](https://devdeepakjha.github.io/youtube-homepage-clone-html-css/)
 
 ## 📌 Author
 
